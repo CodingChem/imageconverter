@@ -1,5 +1,5 @@
 # Imageconverter
-### A simple imageconverter based on pillow
+A simple imageconverter based on pillow
 ## Requirements
 - pillow
 ## Command:
